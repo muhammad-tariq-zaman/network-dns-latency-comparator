@@ -1,0 +1,10 @@
+resolver,query,latency_ms
+8.8.8.8,example.com,22
+8.8.8.8,example.org,25
+8.8.8.8,example.net,21
+1.1.1.1,example.com,18
+1.1.1.1,example.org,19
+1.1.1.1,example.net,17
+9.9.9.9,example.com,45
+9.9.9.9,example.org,50
+9.9.9.9,example.net,48
